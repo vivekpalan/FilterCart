@@ -9,6 +9,7 @@
 
 const search=document.querySelector('#search');
 const productListing= document.createElement( 'div' );
+console.log(productListing)
 
 
 document.body.appendChild(productListing)
